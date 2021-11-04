@@ -10,3 +10,22 @@ D:\Data\OA.PHONE\OA.DAL\obj\Debug\OA.DAL.csproj.CoreCompileInputs.cache
 D:\Data\OA.PHONE\OA.DAL\obj\Debug\OA.DAL.csproj.CopyComplete
 D:\Data\OA.PHONE\OA.DAL\obj\Debug\OA.DAL.dll
 D:\Data\OA.PHONE\OA.DAL\obj\Debug\OA.DAL.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.DAL.dll.config
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.DAL.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.DAL.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\EntityFramework.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.Commons.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.DTO.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.Entity.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.Commons.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.DTO.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.Entity.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\OA.Entity.dll.config
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\EntityFramework.xml
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\obj\Debug\OA.DAL.csprojAssemblyReference.cache
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\obj\Debug\OA.DAL.csproj.CoreCompileInputs.cache
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\obj\Debug\OA.DAL.csproj.CopyComplete
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\obj\Debug\OA.DAL.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DAL\obj\Debug\OA.DAL.pdb

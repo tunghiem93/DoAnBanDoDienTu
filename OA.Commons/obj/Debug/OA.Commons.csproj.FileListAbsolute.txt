@@ -4,3 +4,9 @@ D:\Data\OA.PHONE\OA.Commons\obj\Debug\OA.Commons.csproj.AssemblyReference.cache
 D:\Data\OA.PHONE\OA.Commons\obj\Debug\OA.Commons.csproj.CoreCompileInputs.cache
 D:\Data\OA.PHONE\OA.Commons\obj\Debug\OA.Commons.dll
 D:\Data\OA.PHONE\OA.Commons\obj\Debug\OA.Commons.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Commons\bin\Debug\OA.Commons.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Commons\bin\Debug\OA.Commons.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Commons\obj\Debug\OA.Commons.csprojAssemblyReference.cache
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Commons\obj\Debug\OA.Commons.csproj.CoreCompileInputs.cache
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Commons\obj\Debug\OA.Commons.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Commons\obj\Debug\OA.Commons.pdb

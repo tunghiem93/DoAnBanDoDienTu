@@ -10,3 +10,15 @@ D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.csproj.CoreCompileInputs.cache
 D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.csproj.CopyComplete
 D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.dll
 D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\bin\Debug\OA.Entity.dll.config
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\bin\Debug\OA.Entity.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\bin\Debug\OA.Entity.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\bin\Debug\EntityFramework.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\bin\Debug\EntityFramework.xml
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\obj\Debug\OA.Entity.csprojAssemblyReference.cache
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\obj\Debug\OA.Entity.csproj.CoreCompileInputs.cache
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\obj\Debug\OA.Entity.csproj.CopyComplete
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\obj\Debug\OA.Entity.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.Entity\obj\Debug\OA.Entity.pdb

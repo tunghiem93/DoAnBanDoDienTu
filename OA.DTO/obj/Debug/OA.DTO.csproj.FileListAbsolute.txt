@@ -7,3 +7,12 @@ D:\Data\OA.PHONE\OA.DTO\obj\Debug\OA.DTO.csproj.CoreCompileInputs.cache
 D:\Data\OA.PHONE\OA.DTO\obj\Debug\OA.DTO.csproj.CopyComplete
 D:\Data\OA.PHONE\OA.DTO\obj\Debug\OA.DTO.dll
 D:\Data\OA.PHONE\OA.DTO\obj\Debug\OA.DTO.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\bin\Debug\OA.DTO.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\bin\Debug\OA.DTO.pdb
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\bin\Debug\System.Web.Mvc.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\bin\Debug\System.Web.Mvc.xml
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\obj\Debug\OA.DTO.csprojAssemblyReference.cache
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\obj\Debug\OA.DTO.csproj.CoreCompileInputs.cache
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\obj\Debug\OA.DTO.csproj.CopyComplete
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\obj\Debug\OA.DTO.dll
+C:\TuNx\linh ta linh tinh\DoAnBanDoDienTu\OA.DTO\obj\Debug\OA.DTO.pdb

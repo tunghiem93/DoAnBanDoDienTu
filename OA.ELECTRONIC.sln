@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.PHONE", "OA.PHONE\OA.PHONE.csproj", "{9E9A3098-DA53-49BF-AE2C-5F6905BE7EA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.ELECTRONIC", "OA.PHONE\OA.ELECTRONIC.csproj", "{9E9A3098-DA53-49BF-AE2C-5F6905BE7EA4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.Entity", "OA.Entity\OA.Entity.csproj", "{243CA102-AFED-4CC0-9928-7639687094BB}"
 EndProject
