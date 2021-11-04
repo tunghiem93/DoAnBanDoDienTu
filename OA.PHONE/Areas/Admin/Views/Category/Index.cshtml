@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@using OA.Commons.Enums;
+@model List<OA.DTO.Category.CategoryDTO>
+@{
+    var info = System.Globalization.CultureInfo.GetCultureInfo("vi-VN");
+}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="page-title-box d-flex align-items-center justify-content-between">
+                    <h4>Quản lý thể loại sản phẩm</h4>
+                    <div class="page-title-right">
+                        <a href="@Url.Action("New", "Category")" class="btn btn-outline-info">Thêm mới</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="datatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                    <thead>
+                        <tr>
+                            <th>Tên thể loại</th>
+                            <th>Trạng thái</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Name</td>
+                                    <td>
+                                        @if (item.IsActive == Convert.ToInt32(ActiveStatus.Actived))
+                                        {
+                                            <span>Kích hoạt</span>
+                                        }
+                                        else
+                                        {
+                                            <span>Chưa kích hoạt</span>
+                                        }
+                                    </td>
+                                    <td>
+                                        <a href="@Url.Action("Edit","Category", new { Id = item.Id })" role="button" class="px-2 text-primary" data-toggle="tooltip" data-placement="bottom" title="Cập nhật thông tin">
+                                            <i class="uil uil-pen font-size-18"></i>
+                                        </a>
+                                        <a href="javascript:void(0)" onclick="ConfirmSwalMessage('@string.Format("Bạn có muốn xóa thông tin <br/> [{0}]", item.Name)','', 'Đồng ý', 'Hủy','@Url.Action("Destroy", "Category", new { Id = item.Id })')" class="px-2 text-danger" data-toggle="tooltip" data-placement="bottom" title="Xóa thông tin">
+                                            <i class="uil uil-trash-alt font-size-18"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

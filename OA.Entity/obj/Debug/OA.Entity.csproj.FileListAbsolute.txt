@@ -1,0 +1,12 @@
+D:\Data\OA.PHONE\OA.Entity\bin\Debug\OA.Entity.dll.config
+D:\Data\OA.PHONE\OA.Entity\bin\Debug\OA.Entity.dll
+D:\Data\OA.PHONE\OA.Entity\bin\Debug\OA.Entity.pdb
+D:\Data\OA.PHONE\OA.Entity\bin\Debug\EntityFramework.dll
+D:\Data\OA.PHONE\OA.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\OA.PHONE\OA.Entity\bin\Debug\EntityFramework.xml
+D:\Data\OA.PHONE\OA.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.csproj.AssemblyReference.cache
+D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.csproj.CoreCompileInputs.cache
+D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.csproj.CopyComplete
+D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.dll
+D:\Data\OA.PHONE\OA.Entity\obj\Debug\OA.Entity.pdb
